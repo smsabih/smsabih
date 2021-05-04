@@ -7,3 +7,9 @@
 - 🤔 I’m looking for help with Database Management using Python and ETL Procedures in the work field
 - 💬 Ask me about Predictive Modeling, Machine Learning, and PowerQuery with Excel!
 - ⚡ Fun fact: I know multiplication tables of 1 through 12 by heart!
+
+#### You can find my license and certifications along with my work experience here: 👔 [linkedin][linkedin]
+[linkedin]: https://linkedin.com/in/smsabih
+#### Projects here are from the work performed in the MSDA program at the University of Central Florida.The Projects are uploaded to account for knowledge and experience in the Data Science Industry. Reach out to me if you need anything regarding data and I will try my best to help you. 
+
+#### Languages: Python, R, C#, Java, and SQL

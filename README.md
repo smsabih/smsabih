@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on my Graduate Degree in Data Analytics!
 - 🌱 I’m currently learning Julia, Parallel and Distributed Databases, and AWS
-- 🤔 I’m looking for help with Database Management using Python and ETL Procedures in the work field
+- 🤔 I’m looking for help with Data Warehousing using Python and ETL Procedures in the work field
 - 💬 Ask me about Predictive Modeling, Machine Learning, and PowerQuery with Excel!
 - ⚡ Fun fact: I build computers as a hobby!
 

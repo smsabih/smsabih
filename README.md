@@ -10,6 +10,6 @@
 
 #### You can find my license and certifications along with my work experience here: 👔 [linkedin][linkedin]
 [linkedin]: https://linkedin.com/in/smsabih
-#### The Projects here are uploaded to account for knowledge and experience in the Data Science Industry. Reach out to me if you need anything regarding data and I will try my best to help you. 
+#### The Projects here are uploaded to account for knowledge and experience in the Data Science and Data Analysis Industry. Reach out to me if you need anything regarding data and I will try my best to help you. 
 
 #### Languages: Python, R, Julia, and SQL

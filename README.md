@@ -14,4 +14,4 @@
 ###  🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-
+![Julia](https://img.shields.io/badge/-Julia-05122A?style=flat&logo=julia)&nbsp;

@@ -1,6 +1,6 @@
-### Hello world! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-## I'm Syed
+## Syed Muhammad Sabih
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/smsabih/)](https://www.linkedin.com/in/smsabih/)
+### Hello world! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ### I'm a Data Scientist! 
 
 - 🔭 I’m currently working on my Graduate Degree in Data Analytics!

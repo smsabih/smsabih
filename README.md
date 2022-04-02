@@ -6,6 +6,10 @@
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Graduate+Student;Data+Scientist;ML%20|%20AI%20|%20Detecting%20Anomalies;Data%20Analyst;Cleaning%20and%20Analyzing%20Data&center=true&width=500&height=50&font=georgia"></a>
 </p>
 
+## 🔥 Streak Stats
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smsabih&theme=algolia" alt="smsabih" /></p>
+
 - 🔭 I’m currently working on my Graduate Degree in Data Analytics!
 - 🌱 I’m currently learning how to develop algorithms that detect profanity, hate, and offensive content in Textual Data
 - 🤔 I’m looking for help with Data Warehousing using Python and ETL Procedures in the work field

@@ -9,7 +9,6 @@
 - 💬 Ask me about Predictive Modeling, Machine Learning, Natural Language Processing, PowerBI, and PowerQuery with Excel!
 - ⚡ Fun fact: I love cars and car prices! 9 times out of 10, I can direct you towards your dream car based on your needs!
 
-#### The Projects here are uploaded to account for knowledge and experience in the Data Science and Data Analysis Industry. Reach out to me if you need anything regarding data and I will try my best to help you. 
 
 ###  🛠 &nbsp;Tech Stack
 
@@ -33,4 +32,7 @@
 ![Snowflake](https://img.shields.io/badge/-Snowflake-05122A?style=flat&logo=snowflake)&nbsp;
 ![PowerBI](https://img.shields.io/badge/-PowerBI-05122A?style=flat&logo=powerbi)&nbsp;
 ![Microsoft Excel](https://img.shields.io/badge/-Microsoft_Excel-05122A?style=flat&logo=microsoft-excel)&nbsp;
+<br/>
 ![Microsoft PowerQuery](https://img.shields.io/badge/-Microsoft_PowerQuery-05122A?style=flat&logo=microsoft)&nbsp;
+
+#### The Projects here are uploaded to account for knowledge and experience in the Data Science and Data Analysis Industry. Reach out to me if you need anything regarding data and I will try my best to help you. 

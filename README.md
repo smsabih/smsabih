@@ -35,4 +35,4 @@
 <br/>
 ![Microsoft PowerQuery](https://img.shields.io/badge/-Microsoft_PowerQuery-05122A?style=flat&logo=microsoft)&nbsp;
 
-#### The Projects here are uploaded to account for knowledge and experience in the Data Science and Data Analysis Industry. Reach out to me if you need anything regarding data and I will try my best to help you. 
+#### The Repositories here account for knowledge and experience in the Data Science and Data Analysis Industry. Reach out to me if you need anything regarding data and I will try my best to help you. 

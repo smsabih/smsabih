@@ -9,7 +9,6 @@
 ## 🔥 Streak Stats
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smsabih&theme=algolia" alt="smsabih" /></p>
----
 
 ## 🤖 About Me:
 - 🔭 I’m currently working on my Graduate Degree in Data Analytics!
@@ -17,7 +16,6 @@
 - 🤔 I’m looking for help with Data Warehousing using Python and ETL Procedures in the work field
 - 💬 Ask me about Predictive Modeling, Machine Learning, Natural Language Processing, PowerBI, and PowerQuery with Excel!
 - ⚡ Fun fact: I love cars and car prices! 9 times out of 10, I can direct you towards your dream car based on your needs!
----
 
 ##  🛠 &nbsp;Tech Stack
 
@@ -43,7 +41,6 @@
 <br/>
 ![Microsoft Excel](https://img.shields.io/badge/-Excel-05122A?style=flat&logo=microsoft-excel)&nbsp;
 ![Microsoft PowerQuery](https://img.shields.io/badge/-PowerQuery-05122A?style=flat&logo=microsoft)&nbsp;
----
 
 ## 📊 Github Stats (Expand to View)
 
@@ -67,7 +64,7 @@
    <a href="https://github.com/smsabih"><img alt="Syed's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=smsabih&custom_title=Syed%20Muhammad%20Sabih's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 </details>
-<br/>
+
 ---
 
 <i>The Repositories here account for knowledge and experience in the Data Science and Data Analysis Industry. Reach out to me if you need anything regarding data and I will try my best to help you. </i>

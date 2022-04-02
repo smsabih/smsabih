@@ -66,4 +66,5 @@
   <br/>
 </details>
 <br/>
-#### The Repositories here account for knowledge and experience in the Data Science and Data Analysis Industry. Reach out to me if you need anything regarding data and I will try my best to help you. 
+
+The Repositories here account for knowledge and experience in the Data Science and Data Analysis Industry. Reach out to me if you need anything regarding data and I will try my best to help you. 

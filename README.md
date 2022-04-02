@@ -11,4 +11,7 @@
 
 #### The Projects here are uploaded to account for knowledge and experience in the Data Science and Data Analysis Industry. Reach out to me if you need anything regarding data and I will try my best to help you. 
 
-#### Languages: Python, R, Julia, and SQL
+###  🛠 &nbsp;Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+

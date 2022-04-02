@@ -35,7 +35,7 @@
 ![Microsoft Excel](https://img.shields.io/badge/-Excel-05122A?style=flat&logo=microsoft-excel)&nbsp;
 ![Microsoft PowerQuery](https://img.shields.io/badge/-PowerQuery-05122A?style=flat&logo=microsoft)&nbsp;
 
-## &#x1f4c8; GitHub Stats
+### &#x1f4c8; GitHub Stats
 
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=smsabih&show_icons=true&locale=en&layout=compact&theme=radical" alt="arunsridher" /></p>
 

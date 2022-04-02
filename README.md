@@ -10,13 +10,13 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smsabih&theme=algolia" alt="smsabih" /></p>
 
-## <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; About Me:
+## 🤖 About Me:
 - 🔭 I’m currently working on my Graduate Degree in Data Analytics!
 - 🌱 I’m currently learning how to develop algorithms that detect profanity, hate, and offensive content in Textual Data
 - 🤔 I’m looking for help with Data Warehousing using Python and ETL Procedures in the work field
 - 💬 Ask me about Predictive Modeling, Machine Learning, Natural Language Processing, PowerBI, and PowerQuery with Excel!
 - ⚡ Fun fact: I love cars and car prices! 9 times out of 10, I can direct you towards your dream car based on your needs!
-
+---
 
 ##  🛠 &nbsp;Tech Stack
 

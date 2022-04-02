@@ -3,7 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/smsabih/)](https://www.linkedin.com/in/smsabih/) ![](https://visitor-badge.glitch.me/badge?page_id=smsabih)
 </h1>
 <p align="center">
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Graduate+Student;Data+Scientist;DS%20|%20AI%20|%20ML%20Enthusiast;Data%20Analyst;Always%20learning%20new%20things&center=true&width=500&height=50&font=georgia"></a>
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Graduate+Student;Data+Scientist;DS%20|%20AI%20|%20Detecting%20Anomalies;Data%20Analyst;Always%20cleaning%20your%20data&center=true&width=500&height=50&font=georgia"></a>
 </p>
 
 - 🔭 I’m currently working on my Graduate Degree in Data Analytics!

@@ -32,8 +32,8 @@
 ![Snowflake](https://img.shields.io/badge/-Snowflake-05122A?style=flat&logo=snowflake)&nbsp;
 ![PowerBI](https://img.shields.io/badge/-PowerBI-05122A?style=flat&logo=powerbi)&nbsp;
 <br/>
-![Microsoft Excel](https://img.shields.io/badge/-Microsoft_Excel-05122A?style=flat&logo=microsoft-excel)&nbsp;
-![Microsoft PowerQuery](https://img.shields.io/badge/-Microsoft_PowerQuery-05122A?style=flat&logo=microsoft)&nbsp;
+![Microsoft Excel](https://img.shields.io/badge/-Excel-05122A?style=flat&logo=microsoft-excel)&nbsp;
+![Microsoft PowerQuery](https://img.shields.io/badge/-PowerQuery-05122A?style=flat&logo=microsoft)&nbsp;
 
 ## &#x1f4c8; GitHub Stats
 

@@ -1,5 +1,5 @@
 ## Syed Muhammad Sabih
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/smsabih/)](https://www.linkedin.com/in/smsabih/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/smsabih/)](https://www.linkedin.com/in/smsabih/) ![](https://visitor-badge.glitch.me/badge?page_id=smsabih)
 ### Hello world! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ### I'm a Data Scientist! 
 

@@ -15,9 +15,19 @@
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Julia](https://img.shields.io/badge/-Julia-05122A?style=flat&logo=julia)&nbsp;
-![R](https://img.shields.io/badge/-RLang-05122A?style=flat&logo=r)&nbsp;
+![R](https://img.shields.io/badge/-R-05122A?style=flat&logo=r)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
+<br/>
+![Jupyter Notebook](https://img.shields.io/badge/-JupyterNotebook-05122A?style=flat&logo=jupyter)&nbsp;
+![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat&logo=Keras)&nbsp;
+![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=numpy)&nbsp;
+![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)&nbsp;
+![Plotly](https://img.shields.io/badge/-Plotly-05122A?style=flat&logo=plotly)&nbsp;
+![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=pytorch)&nbsp;
+![scikit-learn](https://img.shields.io/badge/-scikit-learn-05122A?style=flat&logo=scikit-learn)&nbsp;
+![SciPy](https://img.shields.io/badge/-SciPy-05122A?style=flat&logo=scipy)&nbsp;
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow)&nbsp;
 <br/>
 ![Snowflake](https://img.shields.io/badge/-Snowflake-05122A?style=flat&logo=snowflake)&nbsp;
 ![PowerBI](https://img.shields.io/badge/-PowerBI-05122A?style=flat&logo=powerbi)&nbsp;
-![Jupyter Notebook](https://img.shields.io/badge/-JupyterNotebook-05122A?style=flat&logo=jupyter)&nbsp;
+![Microsoft Excel](https://img.shields.io/badge/-Microsoft_Excel-05122A?style=flat&logo=microsoft-excel)&nbsp;

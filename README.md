@@ -3,7 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/smsabih/)](https://www.linkedin.com/in/smsabih/) ![](https://visitor-badge.glitch.me/badge?page_id=smsabih)
 </h1>
 <p align="center">
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Graduate+Student;Data+Scientist;DS%20|%20AI%20|%20Detecting%20Anomalies;Data%20Analyst;Always%20cleaning%20your%20data&center=true&width=500&height=50&font=georgia"></a>
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Graduate+Student;Data+Scientist;ML%20|%20AI%20|%20Detecting%20Anomalies;Data%20Analyst;Cleaning%20and%20Analyzing%20Data&center=true&width=500&height=50&font=georgia"></a>
 </p>
 
 - 🔭 I’m currently working on my Graduate Degree in Data Analytics!
@@ -38,13 +38,30 @@
 ![Microsoft Excel](https://img.shields.io/badge/-Excel-05122A?style=flat&logo=microsoft-excel)&nbsp;
 ![Microsoft PowerQuery](https://img.shields.io/badge/-PowerQuery-05122A?style=flat&logo=microsoft)&nbsp;
 
-### &#x1f4c8; GitHub Stats
+## 📊 Github Stats (Expand to View)
 
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=smsabih&show_icons=true&locale=en&layout=compact&theme=radical" alt="arunsridher" /></p>
+<details> 
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/smsabih"><img align="center" src="https://github-readme-stats.vercel.app/api?username=smsabih&show_icons=true&locale=en&theme=algolia" alt="smsabih" height="192px"/></a>
+	</p>
+	<p  align="center">
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=smsabih&show_icons=true&locale=en&layout=compact&theme=algolia" alt="smsabih" height="192px"/>
+	</p>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  </p>
+</details>
 
- 
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smsabih&theme=radical" alt="smsabih" /></p>
- 
- <br />
+<details>
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/smsabih"><img alt="Syed's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=smsabih&custom_title=Syed%20Muhammad%20Sabih's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
+
+</details>
+
+<br/>
 
 #### The Repositories here account for knowledge and experience in the Data Science and Data Analysis Industry. Reach out to me if you need anything regarding data and I will try my best to help you. 

@@ -22,6 +22,7 @@
 ![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat&logo=Keras)&nbsp;
 ![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=numpy)&nbsp;
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)&nbsp;
+<br/>
 ![Plotly](https://img.shields.io/badge/-Plotly-05122A?style=flat&logo=plotly)&nbsp;
 ![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=pytorch)&nbsp;
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-05122A?style=flat&logo=scikit-learn)&nbsp;

@@ -9,6 +9,7 @@
 ## 🔥 Streak Stats
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smsabih&theme=algolia" alt="smsabih" /></p>
+---
 
 ## 🤖 About Me:
 - 🔭 I’m currently working on my Graduate Degree in Data Analytics!
@@ -42,6 +43,7 @@
 <br/>
 ![Microsoft Excel](https://img.shields.io/badge/-Excel-05122A?style=flat&logo=microsoft-excel)&nbsp;
 ![Microsoft PowerQuery](https://img.shields.io/badge/-PowerQuery-05122A?style=flat&logo=microsoft)&nbsp;
+---
 
 ## 📊 Github Stats (Expand to View)
 
@@ -66,5 +68,6 @@
   <br/>
 </details>
 <br/>
+---
 
 <i>The Repositories here account for knowledge and experience in the Data Science and Data Analysis Industry. Reach out to me if you need anything regarding data and I will try my best to help you. </i>

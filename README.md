@@ -10,6 +10,7 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smsabih&theme=algolia" alt="smsabih" /></p>
 
+## 👉 Current Progress:
 - 🔭 I’m currently working on my Graduate Degree in Data Analytics!
 - 🌱 I’m currently learning how to develop algorithms that detect profanity, hate, and offensive content in Textual Data
 - 🤔 I’m looking for help with Data Warehousing using Python and ETL Procedures in the work field
@@ -17,7 +18,7 @@
 - ⚡ Fun fact: I love cars and car prices! 9 times out of 10, I can direct you towards your dream car based on your needs!
 
 
-###  🛠 &nbsp;Tech Stack
+##  🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Julia](https://img.shields.io/badge/-Julia-05122A?style=flat&logo=julia)&nbsp;

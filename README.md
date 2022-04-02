@@ -20,4 +20,4 @@
 
 ![Snowflake](https://img.shields.io/badge/-Snowflake-05122A?style=flat&logo=snowflake)&nbsp;
 ![PowerBI](https://img.shields.io/badge/-PowerBI-05122A?style=flat&logo=powerbi)&nbsp;
-![Jupyter Notebook](https://img.shields.io/badge/-jupyter-05122A?style=flat&logo=jupyter)&nbsp;
+![Jupyter Notebook](https://img.shields.io/badge/-JupyterNotebook-05122A?style=flat&logo=jupyter)&nbsp;

@@ -1,6 +1,5 @@
-## Hello world! I'm Syed 👋
+## I'm Syed! 👋
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/smsabih/)](https://www.linkedin.com/in/smsabih/)
-
 ### I'm a Data Scientist! 
 
 - 🔭 I’m currently working on my Graduate Degree in Data Analytics!

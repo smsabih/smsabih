@@ -20,4 +20,4 @@
 
 ![Snowflake](https://img.shields.io/badge/-Snowflake-05122A?style=flat&logo=snowflake)&nbsp;
 ![PowerBI](https://img.shields.io/badge/-PowerBI-05122A?style=flat&logo=powerbi)&nbsp;
-![MSExcel](https://img.shields.io/badge/-Excel-05122A?style=flat&logo=msexcel)&nbsp;
+![Gephi](https://img.shields.io/badge/-Gephi-05122A?style=flat&logo=gephi)&nbsp;

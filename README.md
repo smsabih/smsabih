@@ -10,7 +10,7 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smsabih&theme=algolia" alt="smsabih" /></p>
 
-## 👉 Current Progress:
+## 👉 About Me:
 - 🔭 I’m currently working on my Graduate Degree in Data Analytics!
 - 🌱 I’m currently learning how to develop algorithms that detect profanity, hate, and offensive content in Textual Data
 - 🤔 I’m looking for help with Data Warehousing using Python and ETL Procedures in the work field

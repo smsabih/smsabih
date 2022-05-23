@@ -3,7 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/smsabih/)](https://www.linkedin.com/in/smsabih/) ![](https://visitor-badge.glitch.me/badge?page_id=smsabih)
 </h1>
 <p align="center">
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Graduate+Student;Data+Scientist;ML%20|%20AI%20|%20Detecting%20Anomalies;Data%20Analyst;Cleaning%20and%20Analyzing%20Data&center=true&width=500&height=50&font=georgia"></a>
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Data+Scientist;ML%20|%20AI%20|%20Detecting%20Anomalies;Data%20Analyst;Cleaning%20and%20Analyzing%20Data&center=true&width=500&height=50&font=georgia"></a>
 </p>
 
 ## 🔥 Streak Stats

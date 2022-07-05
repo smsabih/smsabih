@@ -11,11 +11,12 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smsabih&theme=algolia" alt="smsabih" /></p>
 
 ## 🤖 About Me:
-- 🔭 I’m currently working on my Graduate Degree in Data Analytics!
-- 🌱 I’m currently learning how to develop algorithms that detect profanity, hate, and offensive content in Textual Data
+- 🔭 I’m currently working at a Financial Institution in Advanced Analytics!
+- 🌱 I’m currently learning how to leverage my skills in Machine Learning and Data Modeling in Business to make effective strategic decisions.
 - 🤔 I’m looking for help with Data Warehousing using Python and ETL Procedures in the work field
 - 💬 Ask me about Predictive Modeling, Machine Learning, Natural Language Processing, PowerBI, and PowerQuery with Excel!
 - ⚡ Fun fact: I love cars and car prices! 9 times out of 10, I can direct you towards your dream car based on your needs!
+		Recently, I have developed an algorithm which detects cyberbullying and profanity in text. Coming soon on here!
 
 ##  🛠 &nbsp;Tech Stack
 
